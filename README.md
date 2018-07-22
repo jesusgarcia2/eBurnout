@@ -3,6 +3,8 @@ eBurnout is an application that serves to predict Burnout in medical personnel b
 * A questionnaire using Maslach scale.
 * By capturing and analysing psychological data like sleep and heart rate among other data...
 
+
+Follow it:
 - Presentation: https://www.youtube.com/watch?v=qT9e77kFbgQ
 - GDPR: https://www.youtube.com/watch?v=nO3q64hrxyo
 - Website: https://eburnout.com/
