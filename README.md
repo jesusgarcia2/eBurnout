@@ -1,4 +1,4 @@
-# eBurnout project European University (Laureate Inc)
+# eBurnout project at European University (Laureate Inc)
 eBurnout is an application that serves to predict Burnout in medical personnel by analysing two types of data sources.
 * A questionnaire using Maslach scale.
 * By capturing and analysing psychological data like sleep and heart rate among other data...
